@@ -8,7 +8,7 @@ programa
 		escreva("digite a nota do aluno: \n")
 		leia (nota1,nota2,nota3)
 		
-		media = (nota1+nota2+nota3)/3
+		media = (nota1 + nota2+ nota3)/3
 
 		se(media>=7){
 			
@@ -24,7 +24,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 301; 
+ * @POSICAO-CURSOR = 154; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
